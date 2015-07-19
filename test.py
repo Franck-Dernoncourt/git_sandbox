@@ -5,7 +5,7 @@ def main():
     '''
     i = 0 + 1
     print(i+1112)
-    j = 2 + 499
+    j = 2 + 4
     print(j)
 
 if __name__ == "__main__":
