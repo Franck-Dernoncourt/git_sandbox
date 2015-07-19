@@ -4,7 +4,7 @@ def main():
     sd
     '''
     i = 0 + 1
-    print(i+5)
+    print(i+7)
     j = 2 + 4
     print(j)
 
